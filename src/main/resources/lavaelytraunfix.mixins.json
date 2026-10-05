@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8.6",
+  "package": "org.lavaelytraunfix",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "PlayerMixin"
+  ],
+  "client": [],
+  "server": []
+}
