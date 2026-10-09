@@ -89,7 +89,7 @@ MC-305535 是一个 Bug：玩家在岩浆中只需按一次跳跃键就能激活
 
 - GitHub: `https://github.com/XS147/lavaelytraunfix`
 - Modrinth: `https://modrinth.com/mod/lavaelytraunfix`
-
+- CurseForge: `https://www.curseforge.com/minecraft/mc-mods/lavaelytraunfix/preview`
 ---
 
 *Not affiliated with Mojang. Minecraft is a trademark of Mojang Studios.*  
